@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Artemis Design Studios Blog</title>
+        <link>https://artemisdesignstudios.github.io/blog</link>
+        <description>Artemis Design Studios Blog</description>
+        <lastBuildDate>Fri, 28 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[July 2023 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/blog/july-2023</link>
+            <guid>https://artemisdesignstudios.github.io/blog/july-2023</guid>
+            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Paragon]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Shipping Status: Most vendors have either completed shipping the GB units or are nearly finished. DailyClack is yet to begin
+shipping Paragon GB orders. Extras at CandyKeys and iLumkb are currently live.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are nearly complete.</li><li>Aluminum cases have been sandblasted and anodized. Images are attached below.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production and should be sent to us for review by the end of the month. Production units are in progress.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCB prototyping slowed down over the past month due to manufacturer holidays. Prototypes should be completed soon and sent to us for review.</li></ul></li></ul>]]></content:encoded>
+            <category>july</category>
+            <category>updates</category>
+            <category>paragon</category>
+            <category>january</category>
+        </item>
+        <item>
+            <title><![CDATA[Update Home]]></title>
+            <link>https://artemisdesignstudios.github.io/blog/home</link>
+            <guid>https://artemisdesignstudios.github.io/blog/home</guid>
+            <pubDate>Sat, 15 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Artemis project updates will be found on this site.]]></description>
+            <content:encoded><![CDATA[<p>Artemis project updates will be found on this site.</p><p>Updates will be sorted in reverse chronological order.</p>]]></content:encoded>
+            <category>updates</category>
+            <category>home</category>
+        </item>
+    </channel>
+</rss>
