@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"July 2023 Project Updates","permalink":"/docs/blog/july-2023"},{"title":"Update Home","permalink":"/docs/blog/home"}]}')}}]);
