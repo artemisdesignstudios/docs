@@ -58,7 +58,7 @@
 
 ## Configuring your PCB through VIA
 
-1. Download the configuration JSON: <a target="_blank" href="./via_files/paragon_via_config.json" download="paragon_via_config.json">paragon_via_config.json</a>.
+1. Download the configuration JSON: <a target="_blank" href="/docs/Downloads/Paragon/PCBs/via_files/paragon_via_config.json" download="paragon_via_config.json">paragon_via_config.json</a>.
 
 2. Go to the [VIA](https://usevia.app/) website.
 
