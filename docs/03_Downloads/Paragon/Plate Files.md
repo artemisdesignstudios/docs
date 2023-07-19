@@ -1,14 +1,16 @@
 # Paragon Plate Files
 
-## Aluminum
+## Aluminum Plate
+![Paragon Aluminum Plate Preview](plate_files/paragon_aluminum_plate_preview.png)
 
-<< insert drawing here >>
 
-[//]: # (![alu plate file drawing]&#40;resources/alu_plate_file_drawing.jpg&#41;)
+Download the aluminum plate file [here](plate_files/paragon_aluminum_plate.dxf).
+<!-- [//]: # (![alu plate file drawing]&#40;resources/alu_plate_file_drawing.jpg&#41;) -->
 
-## Polycarbonate
+## Polycarbonate Plate
 
-<< insert drawing here >>
+![Paragon Polycarbonate Plate Preview](plate_files/paragon_polycarbonate_plate_preview.png)
 
-[//]: # (![pc plate file drawing]&#40;resources/pc_plate_file_drawing.jpg&#41;)
+Download the polycarbonate plate file [here](plate_files/paragon_polycarbonate_plate.dxf).
+<!-- [//]: # (![pc plate file drawing]&#40;resources/pc_plate_file_drawing.jpg&#41;) -->
 

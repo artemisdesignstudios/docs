@@ -2,24 +2,19 @@
 
 ![](resources/january_1.jpg)
 
-### Status: In Progress
-- Manufacturing of the January is currently in progress. Please check our [Updates](/blog) page for progress on the January.
+### Status: In Production
+- Manufacturing is currently underway. Please check our [updates](/blog) page for the latest news regarding the January.
 - The keyboard is slated to ship to customers in Q4 2023.
 
 ---
 
-## Description
+### Description
 
-The **January** is a 60% O-Ring mount keyboard featuring a copper weight and a sweeping side profile. The design of the
-January came about as an experiment to test the accentuated side curves and rounded front and back edges, and it eventually
-forked into its own project.
-
-The January features a scripted engraving of its name on the copper weight, framed within an outline. The design on the weight was
-done by kitkat.
+The **January** is a 60% o-ring mounted keyboard featuring accentuated curves and a copper weight. We originally designed the board to test some aesthetic choices, most notably the gentle side sweep with a rounded front and back. The weight engraving was done by kitkat.
 
 ![](resources/january_weight.jpg)
 
-## Details
+### Details
 
 - **Layout:** 60%
 - **Mounting Style:** O-Ring 
@@ -44,13 +39,19 @@ done by kitkat.
   - Aluminum/Frosted PC: $270
   - Smoked PC: $295
 
-More information can be found in the following GeekHack pages:
+### Build Stream and Showcase
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-jxQMKH6k0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Interest Check: https://geekhack.org/index.php?topic=116498.0
-
-Groupbuy: https://geekhack.org/index.php?topic=118764.0
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ELexhC8gr8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+### Sound Tests
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd4wMTb88vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tooRnWomplY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### External links
+
+- Read more about the original interest check [here](https://geekhack.org/index.php?topic=116498.0)
+- Read more about the groupbuy post [here](https://geekhack.org/index.php?topic=118764.0)

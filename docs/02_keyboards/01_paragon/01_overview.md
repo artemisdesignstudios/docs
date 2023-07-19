@@ -1,50 +1,51 @@
 # Overview
 
-![](imgs/paragon_title.png)
+![](imgs/paragon_standing.jpg)
 
-### Status: Completed
+### Status: Fulfilling
 - Shipping to customers
-- Extras currently on sale at some regional vendors.
+- Extras are currently on sale at some regional vendors
 
 ---
 
-## Description
+### Description
 
-The **Paragon** is a 75% gasket mount keyboard featuring a rotary encoder. The original design for the Paragon
-began in June 2020, when keyboards such as the [Satisfaction75](https://cannonkeys.com/collections/satisfaction-75) and
-the [GMMK Pro](https://www.gloriousgaming.com/products/glorious-gmmk-pro-75-barebone-black) were regarded as the most popular
-offerings in the hobby.
-
-The Paragon features an engraving of the skyline of San Francisco, with which we pay homage to the heart of the technology and software
-industry, Silicon Valley.
+The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our intent was to design a seamless, substantial, and symmetrical 75% with a rotary encoder. The weight pays homage to our roots with the San Francisco skyline.
 
 ![](imgs/paragon_weight.jpg)
 
-## Details
+### Details
 
 - **Layout:** 75%
-- **Mounting Style:** Poron/Silicone Gasket Mount
+- **Mounting Style:** Poron/Silicone Gasket-Mount
 - **Typing Angle:** 7 degrees
-- **Offered Colors:**
+- **Colors:**
   - E-White
   - Black
   - Deep Navy
   - Gunmetal
   - Purple
-- **Offered PCB Options:**
+- **PCB Options:**
   - Hotswap
   - Solder
-- **Offered Plate Options:**
+- **Plate Options:**
   - 1.5mm Aluminum
   - 1.5mm Polycarbonate
 - **Groupbuy Period:** January 7-31, 2022
 - **Pricing:** $480
 
-More information can be found in the following GeekHack pages:
+### Build Stream
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7KdJ7MEapsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Interest Check: https://geekhack.org/index.php?topic=107743.0
+### Sound Tests
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8IRW6TfL9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Groupbuy: https://geekhack.org/index.php?topic=115873.0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1e53OlAWhAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### External links
+
+- Read more about the original interest check [here](https://geekhack.org/index.php?topic=107743.0)
+- Read more about the groupbuy post [here](https://geekhack.org/index.php?topic=115873.0)
 
 
 

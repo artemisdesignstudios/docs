@@ -1,6 +1,6 @@
 # Build Notes and Recommendations
 
-This document contains some of our thoughts when building the Paragon. We highly recommend considering these suggestions while building your unit to ensure you can create the best typing experience for your preferences.
+We highly recommend considering these suggestions while building your Paragon to ensure you can create the best typing experience for your preferences.
 
 **Note:** If you are having issues with your PCB, please check out our **[guide](/pcb_files/README.md)** on flashing and loading the PCB in VIA.
 
@@ -8,10 +8,10 @@ This document contains some of our thoughts when building the Paragon. We highly
 
 ## TL;DR
 
-- **Poron gaskets** on the **bottom half** of the case only. If the plate/PCB is moving, then apply top case gaskets to the **four corners of the build**.
-- The **plate foam** can be helpful in reducing the resonance inside the case.
-- **Don't overtighten** the two case pieces.
-- The **force break mod** can be helpful in reducing the metal-on-metal contact of the top and bottom case pieces.
+- Apply **poron gaskets** to the **bottom half** of the case only. If the plate/PCB assembly is moving, then apply top case gaskets to the **four corners of the build**.
+- **Plate foam** can be helpful in reducing the resonance inside the case.
+- **Don't over tighten** the two case pieces.
+- Use the **force break mod** to reduce metal-on-metal contact between the top and bottom case pieces.
 ---
 
 ## Gaskets
