@@ -10,12 +10,14 @@
 - Install **QMK Toolbox** to flash the PCB.
     - [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases)
 - USB C cable to connect the PCB to your device.
+- **Download and unzip the following file:** 
+  - **[paragon_via_pcb_files.zip](./via_files/paragon_via_pcb_files.zip)**
 
 ---
 
 ## Flashing the PCB
 
-1. Download the appropriate hex file for your PCB. Make sure the file extension remains as **`.hex`**.
+1. Locate the appropriate **hex file** for your PCB. Make sure the file extension remains as **`.hex`**.
     - **Solder:** [paragon_solder_via.hex](via_files/paragon_solder_via.hex)
     - **Hotswap:** [paragon_hotswap_via.hex](via_files/paragon_hotswap_via.hex)
 
@@ -58,9 +60,9 @@
 
 ## Configuring your PCB through VIA
 
-1. Download the configuration JSON: <a target="_blank" href="/docs/Downloads/Paragon/PCBs/via_files/paragon_via_config.json" download="paragon_via_config.json">paragon_via_config.json</a>.
+1. Locate the **VIA JSON configuration file** for the Paragon. It is titled **[paragon_via_config.json](./via_files/paragon_via_config.json)**.
 
-2. Go to the [VIA](https://usevia.app/) website.
+2. Go to the **[VIA](https://usevia.app/)** website.
 
 3. Click the **Authorize** button and select `Paragon` from the pop-up dialogue that appears. Performing this action will not change the webpage.
 

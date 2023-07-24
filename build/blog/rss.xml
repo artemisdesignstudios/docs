@@ -4,7 +4,7 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Fri, 28 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jul 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,10 +12,9 @@
             <title><![CDATA[July 2023 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/july-2023</link>
             <guid>https://artemisdesignstudios.github.io/docs/blog/july-2023</guid>
-            <pubDate>Fri, 28 Jul 2023 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Paragon]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Shipping Status: Most vendors have either completed shipping the GB units or are nearly finished. DailyClack is yet to begin
-shipping Paragon GB orders. Extras at CandyKeys and iLumkb are live.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are almost finished.</li><li>Aluminum cases have been sandblasted and anodized.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production. They should be sent to us for review by the end of the month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCB prototyping was delayed due to manufacturer holidays last month. Prototypes should be completed soon and sent to us for review.</li></ul></li></ul>]]></content:encoded>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Vala Supply and Deskhero are wrapping up fulfillment (extras TBA)</li><li>Boards are still in transit to DailyClack </li><li>Extras at <a href="https://candykeys.com/product/paragon-keyboard-kit-extra" target="_blank" rel="noopener noreferrer">CandyKeys</a> and <a href="https://ilumkb.com/products/in-stock-paragon-keyboard-kit" target="_blank" rel="noopener noreferrer">iLumkb</a> are live</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are almost finished.</li><li>Aluminum cases have been sandblasted and anodized.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production. They should be sent to us for review by the end of the month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes are en route to us.</li></ul></li></ul>]]></content:encoded>
             <category>july</category>
             <category>updates</category>
             <category>paragon</category>
