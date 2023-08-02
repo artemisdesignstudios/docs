@@ -36,7 +36,7 @@ The **January** is a 60% o-ring mounted keyboard featuring accentuated curves an
     - 1.5mm Polycarbonate
     - 1.5mm Carbon Fiber
     - 1.5mm FR4
-- **Groupbuy Period:** November 7th - December 20th
+- **Groupbuy Period:** November 7th, 2022 - December 20th, 2022
 - **Pricing:** 
   - Aluminum/Frosted PC: $270
   - Smoked PC: $295
