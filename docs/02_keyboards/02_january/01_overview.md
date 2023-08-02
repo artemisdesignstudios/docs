@@ -1,6 +1,7 @@
 # Overview
 
-![](resources/january_1.jpg)
+![](./resources/january_steel_blue.jpg)
+
 
 ### Status: In Production
 - Manufacturing is currently underway. Please check our [updates](/blog) page for the latest news regarding the January.
@@ -12,7 +13,8 @@
 
 The **January** is a 60% o-ring mounted keyboard featuring accentuated curves and a copper weight. We originally designed the board to test some aesthetic choices, most notably the gentle side sweep with a rounded front and back. The weight engraving was done by kitkat.
 
-![](resources/january_weight.jpg)
+![](./resources/january_crimson.jpg)
+
 
 ### Details
 
@@ -39,6 +41,15 @@ The **January** is a 60% o-ring mounted keyboard featuring accentuated curves an
   - Aluminum/Frosted PC: $270
   - Smoked PC: $295
 
+![](./resources/january_frosted_pc_internals.jpg)
+
+![](./resources/january_frosted_pc.jpg)
+
+![](./resources/january_smoked_pc_weight.jpg)
+
+![](./resources/january_smoked_pc.jpg)
+Above photo courtesy of Nick the Lard
+
 ### Build Stream and Showcase
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-jxQMKH6k0c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -50,6 +61,13 @@ The **January** is a 60% o-ring mounted keyboard featuring accentuated curves an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yd4wMTb88vs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tooRnWomplY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Earlier Prototypes
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XW8tdI4lXrk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EHD1e50rN3Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ### External links
 

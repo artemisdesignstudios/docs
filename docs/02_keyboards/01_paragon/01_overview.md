@@ -1,6 +1,6 @@
 # Overview
 
-![](imgs/paragon_standing.jpg)
+![](imgs/paragon_knob.jpg)
 
 ### Status: Fulfilling
 - Shipping to customers
@@ -12,7 +12,7 @@
 
 The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our intent was to design a seamless, substantial, and symmetrical 75% with a rotary encoder. The weight pays homage to our roots with the San Francisco skyline.
 
-![](imgs/paragon_weight.jpg)
+![](imgs/paragon_standing.jpg)
 
 ### Details
 
@@ -33,6 +33,8 @@ The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our
   - 1.5mm Polycarbonate
 - **Groupbuy Period:** January 7-31, 2022
 - **Pricing:** $480
+
+![](imgs/paragon_side_profile.jpg)
 
 ### Build Stream
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KdJ7MEapsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
