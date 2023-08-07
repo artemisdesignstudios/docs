@@ -68,7 +68,7 @@
 
 4. Click on the **Settings** icon on the far left side of the header tab.
 
-5. In the **Settings** tab, enable `Show Design tab`.
+5. In the **Settings** tab, enable the `Show Design tab`.
 
 6. Click on the `Load` icon and select the `paragon_via_config.json` file you previously downloaded. Upon loading the file, VIA will ask you to authorize the Paragon PCB again.
 

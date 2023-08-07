@@ -4,14 +4,28 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Sun, 23 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <copyright>Copyright © 2023 Artemis Design Studios, LLC</copyright>
         <item>
-            <title><![CDATA[July 2023 Project Updates]]></title>
-            <link>https://artemisdesignstudios.github.io/docs/blog/july-2023</link>
-            <guid>https://artemisdesignstudios.github.io/docs/blog/july-2023</guid>
+            <title><![CDATA[August 2, 2023 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</guid>
+            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Paragon]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Plate files are live <a href="https://artemisdesignstudios.github.io/docs/Downloads/Paragon/Plate%20Files" target="_blank" rel="noopener noreferrer">here</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Packaging<ul><li>Carrying Case and Cloth Sample have arrived</li><li>Foam insert has been re-designed and ordered for a better fit</li></ul></li></ul><p><img loading="lazy" src="/docs/assets/images/january_carrying_case-1c416e7e16d2e14e0786cfce093260a5.jpg" width="1000" height="1400" class="img_ev3q">
+<img loading="lazy" src="/docs/assets/images/january_carrying_cloth-cab130610f10e180976b546155de8a63.jpg" width="1000" height="1400" class="img_ev3q"></p>]]></content:encoded>
+            <category>august</category>
+            <category>updates</category>
+            <category>paragon</category>
+            <category>january</category>
+        </item>
+        <item>
+            <title><![CDATA[July 23, 2023 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/july-23-2023</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/july-23-2023</guid>
             <pubDate>Sun, 23 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[Paragon]]></description>
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Vala Supply and Deskhero are wrapping up fulfillment (extras TBA)</li><li>Boards are still in transit to DailyClack </li><li>Extras at <a href="https://candykeys.com/product/paragon-keyboard-kit-extra" target="_blank" rel="noopener noreferrer">CandyKeys</a> and <a href="https://ilumkb.com/products/in-stock-paragon-keyboard-kit" target="_blank" rel="noopener noreferrer">iLumkb</a> are live</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are almost finished.</li><li>Aluminum cases have been sandblasted and anodized.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production. They should be sent to us for review by the end of the month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes are en route to us.</li></ul></li></ul>]]></content:encoded>
