@@ -1,6 +1,6 @@
 # Overview
 
-![](imgs/paragon_knob.jpg)
+![](imgs/paragon_gunmetal_knob.jpg)
 
 ### Status: Fulfilling
 - Shipping to customers
@@ -12,9 +12,15 @@
 
 The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our intent was to design a seamless, substantial, and symmetrical 75% with a rotary encoder. The weight pays homage to our roots with the San Francisco skyline.
 
-![](imgs/paragon_weights.jpg)
+![](imgs/paragon_knob.jpg)
+
+![](imgs/paragon_deep_navy_weight.jpg)
 
 ![](imgs/paragon_side_profile.jpg)
+
+![](imgs/paragon_weights.jpg)
+
+![](imgs/paragon_deep_navy_knob.jpg)
 
 ### Specifications
 - **Layout:** 75%
@@ -41,7 +47,7 @@ The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our
   - Split Spacebar Bottom Row: 1.25u 1.25u 1.25u 2.25u 1.25u 2.75u 1.5u 1.5u
   - Bottom Row: 1.25u 1.25u 1.25u 6.25u 1.5u 1.5u
 
-![](imgs/paragons_unbuilt.jpg)
+![](imgs/paragon_gunmetal_standing.jpg)
 
 ### Groupbuy Information
 - **Sale Period:** January 7th, 2022 - January 31st, 2022
@@ -107,6 +113,10 @@ The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KdJ7MEapsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Sound Tests
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YG3L6zfw21k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NtbmRyMDkRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8IRW6TfL9o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1e53OlAWhAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
