@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/september-12-2023",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases and weights are expected to be completed within the next month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs have been re-designed to comply with requirements. The new prototypes are expected to ship this week.</li></ul></li><li>Other Components: <strong>In Progress</strong><ul><li>Carbon Fiber, Fr4, and Polycarbonate Plates have been delivered to KFA.</li><li>Feet and O-rings have been delivered to KFA.</li><li>Carrying cases and cloths are expected to be completed within the next month.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/september-12-2023",
+            "title": "September 12, 2023 Project Updates",
+            "summary": "January",
+            "date_modified": "2023-09-12T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "september",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/august-2-2023",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"paragon\">Paragon<a href=\"#paragon\" class=\"hash-link\" aria-label=\"Direct link to Paragon\" title=\"Direct link to Paragon\">​</a></h2><ul><li>Plate files are live <a href=\"https://artemisdesignstudios.github.io/docs/Downloads/Paragon/Plate%20Files\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></li></ul><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Packaging<ul><li>Carrying Case and Cloth Sample have arrived</li><li>Foam insert has been re-designed and ordered for a better fit</li></ul></li></ul><p><img loading=\"lazy\" src=\"/docs/assets/images/january_carrying_case-1c416e7e16d2e14e0786cfce093260a5.jpg\" width=\"1000\" height=\"1400\" class=\"img_ev3q\">\n<img loading=\"lazy\" src=\"/docs/assets/images/january_carrying_cloth-cab130610f10e180976b546155de8a63.jpg\" width=\"1000\" height=\"1400\" class=\"img_ev3q\"></p>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/august-2-2023",

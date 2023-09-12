@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artemisdesignstudios.github.io/docs/blog</id>
     <title>Artemis Design Studios Blog</title>
-    <updated>2023-08-02T00:00:00.000Z</updated>
+    <updated>2023-09-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://artemisdesignstudios.github.io/docs/blog"/>
     <subtitle>Artemis Design Studios Blog</subtitle>
     <icon>https://artemisdesignstudios.github.io/docs/img/artemis_logo_color.ico</icon>
     <rights>Copyright © 2023 Artemis Design Studios, LLC</rights>
+    <entry>
+        <title type="html"><![CDATA[September 12, 2023 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/september-12-2023</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/september-12-2023"/>
+        <updated>2023-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[January]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases and weights are expected to be completed within the next month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs have been re-designed to comply with requirements. The new prototypes are expected to ship this week.</li></ul></li><li>Other Components: <strong>In Progress</strong><ul><li>Carbon Fiber, Fr4, and Polycarbonate Plates have been delivered to KFA.</li><li>Feet and O-rings have been delivered to KFA.</li><li>Carrying cases and cloths are expected to be completed within the next month.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="september" term="september"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[August 2, 2023 Project Updates]]></title>
         <id>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</id>
