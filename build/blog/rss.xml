@@ -4,11 +4,22 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Wed, 02 Aug 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[September 12, 2023 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/september-12-2023</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/september-12-2023</guid>
+            <pubDate>Tue, 12 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[January]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases and weights are expected to be completed within the next month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs have been re-designed to comply with requirements. The new prototypes are expected to ship this week.</li></ul></li><li>Other Components: <strong>In Progress</strong><ul><li>Carbon Fiber, Fr4, and Polycarbonate Plates have been delivered to KFA.</li><li>Feet and O-rings have been delivered to KFA.</li><li>Carrying cases and cloths are expected to be completed within the next month.</li></ul></li></ul>]]></content:encoded>
+            <category>september</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[August 2, 2023 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</link>
