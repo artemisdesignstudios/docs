@@ -5,6 +5,24 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/october-15-2023",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"paragon\">Paragon<a href=\"#paragon\" class=\"hash-link\" aria-label=\"Direct link to Paragon\" title=\"Direct link to Paragon\">​</a></h2><ul><li>Alexotos will be building a Paragon on Friday 10/20 at 7 pm EST. Tune in <strong><a href=\"https://www.twitch.tv/alexotos\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></strong>!</li><li>Extras will go live on Vala Supply on Friday 10/20.</li><li>Extras are live on <strong><a href=\"https://www.deskhero.ca/products/paragon-luxury-75-percent-mechanical-keyboard\" target=\"_blank\" rel=\"noopener noreferrer\">Deskhero</a></strong>.</li></ul><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Manufacturing Status: <strong>Pending Shipment</strong><ul><li>All boards are finished. We are in the process of arranging shipping between the factory and vendors.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>The prototypes were not shipped to us due to a holiday but they are now en route.</li></ul></li><li>Other Components: <strong>Pending Shipment</strong><ul><li>Carrying cases and cloths are finished. They will be shipped to vendors with the keyboards.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/october-15-2023",
+            "title": "October 15, 2023 Project Updates",
+            "summary": "Paragon",
+            "date_modified": "2023-10-15T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "october",
+                "updates",
+                "paragon",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/september-12-2023",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases and weights are expected to be completed within the next month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs have been re-designed to comply with requirements. The new prototypes are expected to ship this week.</li></ul></li><li>Other Components: <strong>In Progress</strong><ul><li>Carbon Fiber, Fr4, and Polycarbonate Plates have been delivered to KFA.</li><li>Feet and O-rings have been delivered to KFA.</li><li>Carrying cases and cloths are expected to be completed within the next month.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/september-12-2023",
