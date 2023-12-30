@@ -4,11 +4,22 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Mon, 13 Nov 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2023 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[December 29, 2023 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/december-29-2023</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/december-29-2023</guid>
+            <pubDate>Fri, 29 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[January]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes have been verified by two separate parties and we have greenlit production. An ETA for PCB production will be provided shortly.</li></ul></li></ul><p>The January 2024 update can be expected sooner rather than later. Thank you for your patience and we hope you all have a great New Year’s.</p>]]></content:encoded>
+            <category>december</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[November 13, 2023 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/november-13-2023</link>

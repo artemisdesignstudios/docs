@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes have been verified by two separate parties and we have greenlit production. An ETA for PCB production will be provided shortly.</li></ul></li></ul><p>The January 2024 update can be expected sooner rather than later. Thank you for your patience and we hope you all have a great New Year’s.</p>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
+            "title": "December 29, 2023 Project Updates",
+            "summary": "January",
+            "date_modified": "2023-12-29T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "december",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/november-13-2023",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>All boards, carrying cases, and cloths have been packaged. The factory and vendors are finalizing the shipping logistics.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>The solder PCB prototype has been verified. We are waiting on the hotswap PCB prototype before giving the green light for manufacturing.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/november-13-2023",
