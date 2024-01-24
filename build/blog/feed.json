@@ -5,6 +5,56 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers. KFA is slated to receive their batch of Januarys this week.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. Due to other projects being in the queue ahead of the January PCBs, they are expected to finish after the Chinese New Year.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
+            "title": "January 23, 2024 Project Updates",
+            "summary": "January",
+            "date_modified": "2024-01-23T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "updates",
+                "january"
+            ]
+        },
+        {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes have been verified by two separate parties and we have greenlit production. An ETA for PCB production will be provided shortly.</li></ul></li></ul><p>The January 2024 update can be expected sooner rather than later. Thank you for your patience and we hope you all have a great New Year’s.</p>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
+            "title": "December 29, 2023 Project Updates",
+            "summary": "January",
+            "date_modified": "2023-12-29T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "december",
+                "updates",
+                "january"
+            ]
+        },
+        {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/november-13-2023",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>All boards, carrying cases, and cloths have been packaged. The factory and vendors are finalizing the shipping logistics.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>The solder PCB prototype has been verified. We are waiting on the hotswap PCB prototype before giving the green light for manufacturing.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/november-13-2023",
+            "title": "November 13, 2023 Project Updates",
+            "summary": "January",
+            "date_modified": "2023-11-13T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "november",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/october-15-2023",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"paragon\">Paragon<a href=\"#paragon\" class=\"hash-link\" aria-label=\"Direct link to Paragon\" title=\"Direct link to Paragon\">​</a></h2><ul><li>Alexotos will be building a Paragon on Friday 10/20 at 7 pm EST. Tune in <strong><a href=\"https://www.twitch.tv/alexotos\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></strong>!</li><li>Extras will go live on Vala Supply on Friday 10/20.</li><li>Extras are live on <strong><a href=\"https://www.deskhero.ca/products/paragon-luxury-75-percent-mechanical-keyboard\" target=\"_blank\" rel=\"noopener noreferrer\">Deskhero</a></strong>.</li></ul><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Manufacturing Status: <strong>Pending Shipment</strong><ul><li>All boards are finished. We are in the process of arranging shipping between the factory and vendors.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>The prototypes were not shipped to us due to a holiday but they are now en route.</li></ul></li><li>Other Components: <strong>Pending Shipment</strong><ul><li>Carrying cases and cloths are finished. They will be shipped to vendors with the keyboards.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/october-15-2023",

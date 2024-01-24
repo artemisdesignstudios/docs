@@ -2,12 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artemisdesignstudios.github.io/docs/blog</id>
     <title>Artemis Design Studios Blog</title>
-    <updated>2023-10-15T00:00:00.000Z</updated>
+    <updated>2024-01-23T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://artemisdesignstudios.github.io/docs/blog"/>
     <subtitle>Artemis Design Studios Blog</subtitle>
     <icon>https://artemisdesignstudios.github.io/docs/img/artemis_logo_color.ico</icon>
-    <rights>Copyright © 2023 Artemis Design Studios, LLC</rights>
+    <rights>Copyright © 2024 Artemis Design Studios, LLC</rights>
+    <entry>
+        <title type="html"><![CDATA[January 23, 2024 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/january-23-2024</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/january-23-2024"/>
+        <updated>2024-01-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[January]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers. KFA is slated to receive their batch of Januarys this week.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. Due to other projects being in the queue ahead of the January PCBs, they are expected to finish after the Chinese New Year.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[December 29, 2023 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/december-29-2023</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/december-29-2023"/>
+        <updated>2023-12-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[January]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes have been verified by two separate parties and we have greenlit production. An ETA for PCB production will be provided shortly.</li></ul></li></ul><p>The January 2024 update can be expected sooner rather than later. Thank you for your patience and we hope you all have a great New Year’s.</p>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="december" term="december"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[November 13, 2023 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/november-13-2023</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/november-13-2023"/>
+        <updated>2023-11-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[January]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>All boards, carrying cases, and cloths have been packaged. The factory and vendors are finalizing the shipping logistics.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>The solder PCB prototype has been verified. We are waiting on the hotswap PCB prototype before giving the green light for manufacturing.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="november" term="november"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[October 15, 2023 Project Updates]]></title>
         <id>https://artemisdesignstudios.github.io/docs/blog/october-15-2023</id>
