@@ -5,6 +5,22 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers. KFA is slated to receive their batch of Januarys this week.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. Due to other projects being in the queue ahead of the January PCBs, they are expected to finish after the Chinese New Year.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
+            "title": "January 23, 2024 Project Updates",
+            "summary": "January",
+            "date_modified": "2024-01-23T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>Pending Shipment</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes have been verified by two separate parties and we have greenlit production. An ETA for PCB production will be provided shortly.</li></ul></li></ul><p>The January 2024 update can be expected sooner rather than later. Thank you for your patience and we hope you all have a great New Year’s.</p>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/december-29-2023",
