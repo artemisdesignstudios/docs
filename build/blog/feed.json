@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/february-28-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"february\">February<a href=\"#february\" class=\"hash-link\" aria-label=\"Direct link to February\" title=\"Direct link to February\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors have begun to QC their units. KFA plans to ship out the remaining components to the factory to be combined with the PCB orders by next Monday.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. The factory has given us confirmation that production should be complete by the end of next week. Once they receive the accessory shipment, PCBs + accessories will be dispatched to each of the vendors.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/february-28-2024",
+            "title": "February 28, 2024 Project Updates",
+            "summary": "February",
+            "date_modified": "2024-02-28T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "february",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Some vendors have already received the boards. Vendors are waiting on PCBs and the remaining components from KFA before shipping to customers. KFA is slated to receive their batch of Januarys this week.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. Due to other projects being in the queue ahead of the January PCBs, they are expected to finish after the Chinese New Year.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/january-23-2024",
