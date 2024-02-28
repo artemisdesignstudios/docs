@@ -4,11 +4,22 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Tue, 23 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[February 28, 2024 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/february-28-2024</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/february-28-2024</guid>
+            <pubDate>Wed, 28 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[February]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="february">February<a href="#february" class="hash-link" aria-label="Direct link to February" title="Direct link to February">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors have begun to QC their units. KFA plans to ship out the remaining components to the factory to be combined with the PCB orders by next Monday.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. The factory has given us confirmation that production should be complete by the end of next week. Once they receive the accessory shipment, PCBs + accessories will be dispatched to each of the vendors.</li></ul></li></ul>]]></content:encoded>
+            <category>february</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[January 23, 2024 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/january-23-2024</link>
