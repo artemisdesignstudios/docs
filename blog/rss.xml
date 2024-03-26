@@ -4,11 +4,22 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Wed, 28 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[March 26, 2024 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/march-26-2024</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/march-26-2024</guid>
+            <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[March]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="march">March<a href="#march" class="hash-link" aria-label="Direct link to March" title="Direct link to March">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors are QCing their units. The remaining components have been shipped to the PCB factory to be combined with the PCB orders.</li></ul></li><li>PCB Status: <strong>Pending Shipment</strong><ul><li>PCB production, flashing, and QC’ing has finished. The PCBs will ship to vendors with the remaining components when they arrive at the PCB factory next week.</li></ul></li></ul>]]></content:encoded>
+            <category>march</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[February 28, 2024 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/february-28-2024</link>
