@@ -3,9 +3,9 @@
 ![](./resources/january_steel_blue.jpg)
 
 
-### Status: In Production
-- Manufacturing is currently underway. Please check our [updates](/blog) page for the latest news regarding the January.
-- The keyboard is slated to ship to customers in Q4 2023.
+### Status: Shipping to Vendors
+- Please check our [updates](/blog) page for the latest news regarding the January.
+- The keyboard is slated to ship to customers in Q2 2024.
 
 ---
 

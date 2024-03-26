@@ -2,9 +2,10 @@
 
 ![](imgs/paragon_gunmetal_knob.jpg)
 
-### Status: Fulfilling
-- Shipping to customers
-- Extras are currently on sale at some regional vendors
+### Status: Fulfilled
+
+- **Group Buy Units:** Delivered
+- **Extra Units:** Available for Purchase
 
 ---
 
@@ -109,7 +110,10 @@ The **Paragon** is a 75% gasket-mounted keyboard featuring a rotary encoder. Our
 
 ![](imgs/paragon_e_white.jpg)
 
-### Build Stream
+### Build Streams
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FSfLUEPeRv8?si=GZUDarqv9ebOq74e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7KdJ7MEapsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Sound Tests

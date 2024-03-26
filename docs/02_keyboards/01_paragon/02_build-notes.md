@@ -2,7 +2,7 @@
 
 We highly recommend considering these suggestions while building your Paragon to ensure you can create the best typing experience for your preferences.
 
-**Note:** If you are having issues with your PCB, please check out our **[guide](/pcb_files/README.md)** on flashing and loading the PCB in VIA.
+**Note:** If you are having issues with your PCB, please check out our [**guide**](/docs/Downloads/Paragon/PCBs/via_pcb_configuration) on flashing and loading the PCB in VIA.
 
 ---
 
