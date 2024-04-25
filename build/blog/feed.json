@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/march-26-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"march\">March<a href=\"#march\" class=\"hash-link\" aria-label=\"Direct link to March\" title=\"Direct link to March\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors are QCing their units. The remaining components have been shipped to the PCB factory to be combined with the PCB orders.</li></ul></li><li>PCB Status: <strong>Pending Shipment</strong><ul><li>PCB production, flashing, and QC’ing has finished. The PCBs will ship to vendors with the remaining components when they arrive at the PCB factory next week.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/march-26-2024",
+            "title": "March 26, 2024 Project Updates",
+            "summary": "March",
+            "date_modified": "2024-03-26T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "march",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/february-28-2024",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"february\">February<a href=\"#february\" class=\"hash-link\" aria-label=\"Direct link to February\" title=\"Direct link to February\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors have begun to QC their units. KFA plans to ship out the remaining components to the factory to be combined with the PCB orders by next Monday.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs are in production. The factory has given us confirmation that production should be complete by the end of next week. Once they receive the accessory shipment, PCBs + accessories will be dispatched to each of the vendors.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/february-28-2024",
