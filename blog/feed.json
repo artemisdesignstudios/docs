@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/april-25-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"april\">April<a href=\"#april\" class=\"hash-link\" aria-label=\"Direct link to April\" title=\"Direct link to April\">​</a></h2><ul><li>Boards: <strong>Delivered to vendors</strong><ul><li>Vendors are QCing their units.</li></ul></li><li>PCBs and Other Components: <strong>On the way</strong><ul><li>PCBs and accessories are en route and should be delivered to vendors within 4 weeks. Delivery ETAs will depend on the shipping method (air or freight) selected by regional vendors.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/april-25-2024",
+            "title": "April 25, 2024 Project Updates",
+            "summary": "April",
+            "date_modified": "2024-04-25T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "april",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/march-26-2024",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"march\">March<a href=\"#march\" class=\"hash-link\" aria-label=\"Direct link to March\" title=\"Direct link to March\">​</a></h2><ul><li>Boards and Other Components: <strong>On the way</strong><ul><li>Vendors are QCing their units. The remaining components have been shipped to the PCB factory to be combined with the PCB orders.</li></ul></li><li>PCB Status: <strong>Pending Shipment</strong><ul><li>PCB production, flashing, and QC’ing has finished. The PCBs will ship to vendors with the remaining components when they arrive at the PCB factory next week.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/march-26-2024",
@@ -157,22 +174,6 @@
                 "updates",
                 "paragon",
                 "january"
-            ]
-        },
-        {
-            "id": "https://artemisdesignstudios.github.io/docs/blog/home",
-            "content_html": "<p>Artemis project updates will be found on this site.</p><p>Updates will be sorted in reverse chronological order.</p>",
-            "url": "https://artemisdesignstudios.github.io/docs/blog/home",
-            "title": "Update Home",
-            "summary": "Artemis project updates will be found on this site.",
-            "date_modified": "2023-07-15T00:00:00.000Z",
-            "author": {
-                "name": "jrao",
-                "url": "https://github.com/jrao1724"
-            },
-            "tags": [
-                "updates",
-                "home"
             ]
         }
     ]
