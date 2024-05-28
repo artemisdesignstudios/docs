@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artemisdesignstudios.github.io/docs/blog</id>
     <title>Artemis Design Studios Blog</title>
-    <updated>2024-04-25T00:00:00.000Z</updated>
+    <updated>2024-05-28T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://artemisdesignstudios.github.io/docs/blog"/>
     <subtitle>Artemis Design Studios Blog</subtitle>
     <icon>https://artemisdesignstudios.github.io/docs/img/artemis_logo_color.ico</icon>
     <rights>Copyright © 2024 Artemis Design Studios, LLC</rights>
+    <entry>
+        <title type="html"><![CDATA[May 28, 2024 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/may-28-2024</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/may-28-2024"/>
+        <updated>2024-05-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[May]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="may">May<a href="#may" class="hash-link" aria-label="Direct link to May" title="Direct link to May">​</a></h2><ul><li>Boards, PCBs, and Other Components: <strong>Delivered to vendors. Shipping to customers in some regions.</strong><ul><li>Groupbuy units purchased from Zionstudios (Asia) and Switchkeys (Oceania) are shipping to customers.</li><li>There was a delay with the daughterboards and JST cable production. All daughterboards and JST cables are either en route (via air shipping) or have been delivered to vendors.</li><li>Fulfillment for CandyKeys (Europe), DeskHero (Canada), and KeebsForAll (U.S.) will commence once the daughterboards and JST cables are received.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="may" term="may"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[April 25, 2024 Project Updates]]></title>
         <id>https://artemisdesignstudios.github.io/docs/blog/april-25-2024</id>
@@ -177,26 +196,6 @@
             <uri>https://github.com/arudrra</uri>
         </author>
         <category label="august" term="august"/>
-        <category label="updates" term="updates"/>
-        <category label="paragon" term="paragon"/>
-        <category label="january" term="january"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[July 23, 2023 Project Updates]]></title>
-        <id>https://artemisdesignstudios.github.io/docs/blog/july-23-2023</id>
-        <link href="https://artemisdesignstudios.github.io/docs/blog/july-23-2023"/>
-        <updated>2023-07-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Paragon]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Vala Supply and Deskhero are wrapping up fulfillment (extras TBA)</li><li>Boards are still in transit to DailyClack </li><li>Extras at <a href="https://candykeys.com/product/paragon-keyboard-kit-extra" target="_blank" rel="noopener noreferrer">CandyKeys</a> and <a href="https://ilumkb.com/products/in-stock-paragon-keyboard-kit" target="_blank" rel="noopener noreferrer">iLumkb</a> are live</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are almost finished.</li><li>Aluminum cases have been sandblasted and anodized.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production. They should be sent to us for review by the end of the month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes are en route to us.</li></ul></li></ul>]]></content>
-        <author>
-            <name>jrao</name>
-            <uri>https://github.com/jrao1724</uri>
-        </author>
-        <author>
-            <name>r00dy</name>
-            <uri>https://github.com/arudrra</uri>
-        </author>
-        <category label="july" term="july"/>
         <category label="updates" term="updates"/>
         <category label="paragon" term="paragon"/>
         <category label="january" term="january"/>
