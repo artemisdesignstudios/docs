@@ -5,6 +5,23 @@
     "description": "Artemis Design Studios Blog",
     "items": [
         {
+            "id": "https://artemisdesignstudios.github.io/docs/blog/may-28-2024",
+            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"may\">May<a href=\"#may\" class=\"hash-link\" aria-label=\"Direct link to May\" title=\"Direct link to May\">​</a></h2><ul><li>Boards, PCBs, and Other Components: <strong>Delivered to vendors. Shipping to customers in some regions.</strong><ul><li>Groupbuy units purchased from Zionstudios (Asia) and Switchkeys (Oceania) are shipping to customers.</li><li>There was a delay with the daughterboards and JST cable production. All daughterboards and JST cables are either en route (via air shipping) or have been delivered to vendors.</li><li>Fulfillment for CandyKeys (Europe), DeskHero (Canada), and KeebsForAll (U.S.) will commence once the daughterboards and JST cables are received.</li></ul></li></ul>",
+            "url": "https://artemisdesignstudios.github.io/docs/blog/may-28-2024",
+            "title": "May 28, 2024 Project Updates",
+            "summary": "May",
+            "date_modified": "2024-05-28T00:00:00.000Z",
+            "author": {
+                "name": "jrao",
+                "url": "https://github.com/jrao1724"
+            },
+            "tags": [
+                "may",
+                "updates",
+                "january"
+            ]
+        },
+        {
             "id": "https://artemisdesignstudios.github.io/docs/blog/april-25-2024",
             "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"april\">April<a href=\"#april\" class=\"hash-link\" aria-label=\"Direct link to April\" title=\"Direct link to April\">​</a></h2><ul><li>Boards: <strong>Delivered to vendors</strong><ul><li>Vendors are QCing their units.</li></ul></li><li>PCBs and Other Components: <strong>On the way</strong><ul><li>PCBs and accessories are en route and should be delivered to vendors within 4 weeks. Delivery ETAs will depend on the shipping method (air or freight) selected by regional vendors.</li></ul></li></ul>",
             "url": "https://artemisdesignstudios.github.io/docs/blog/april-25-2024",
@@ -153,24 +170,6 @@
             },
             "tags": [
                 "august",
-                "updates",
-                "paragon",
-                "january"
-            ]
-        },
-        {
-            "id": "https://artemisdesignstudios.github.io/docs/blog/july-23-2023",
-            "content_html": "<h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"paragon\">Paragon<a href=\"#paragon\" class=\"hash-link\" aria-label=\"Direct link to Paragon\" title=\"Direct link to Paragon\">​</a></h2><ul><li>Manufacturing Status: <strong>Complete</strong></li><li>Vala Supply and Deskhero are wrapping up fulfillment (extras TBA)</li><li>Boards are still in transit to DailyClack </li><li>Extras at <a href=\"https://candykeys.com/product/paragon-keyboard-kit-extra\" target=\"_blank\" rel=\"noopener noreferrer\">CandyKeys</a> and <a href=\"https://ilumkb.com/products/in-stock-paragon-keyboard-kit\" target=\"_blank\" rel=\"noopener noreferrer\">iLumkb</a> are live</li></ul><h2 class=\"anchor anchorWithStickyNavbar_LWe7\" id=\"january\">January<a href=\"#january\" class=\"hash-link\" aria-label=\"Direct link to January\" title=\"Direct link to January\">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases are almost finished.</li><li>Aluminum cases have been sandblasted and anodized.</li><li>Weights (case/wrist rest) are currently being sandblasted.</li><li>Carrying case and microfiber cloth samples are in production. They should be sent to us for review by the end of the month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>Prototypes are en route to us.</li></ul></li></ul>",
-            "url": "https://artemisdesignstudios.github.io/docs/blog/july-23-2023",
-            "title": "July 23, 2023 Project Updates",
-            "summary": "Paragon",
-            "date_modified": "2023-07-23T00:00:00.000Z",
-            "author": {
-                "name": "jrao",
-                "url": "https://github.com/jrao1724"
-            },
-            "tags": [
-                "july",
                 "updates",
                 "paragon",
                 "january"
