@@ -2,12 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artemisdesignstudios.github.io/docs/blog</id>
     <title>Artemis Design Studios Blog</title>
-    <updated>2024-03-26T00:00:00.000Z</updated>
+    <updated>2024-04-25T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://artemisdesignstudios.github.io/docs/blog"/>
     <subtitle>Artemis Design Studios Blog</subtitle>
     <icon>https://artemisdesignstudios.github.io/docs/img/artemis_logo_color.ico</icon>
     <rights>Copyright © 2024 Artemis Design Studios, LLC</rights>
+    <entry>
+        <title type="html"><![CDATA[April 25, 2024 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/april-25-2024</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/april-25-2024"/>
+        <updated>2024-04-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[April]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="april">April<a href="#april" class="hash-link" aria-label="Direct link to April" title="Direct link to April">​</a></h2><ul><li>Boards: <strong>Delivered to vendors</strong><ul><li>Vendors are QCing their units.</li></ul></li><li>PCBs and Other Components: <strong>On the way</strong><ul><li>PCBs and accessories are en route and should be delivered to vendors within 4 weeks. Delivery ETAs will depend on the shipping method (air or freight) selected by regional vendors.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="april" term="april"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[March 26, 2024 Project Updates]]></title>
         <id>https://artemisdesignstudios.github.io/docs/blog/march-26-2024</id>
@@ -181,23 +200,5 @@
         <category label="updates" term="updates"/>
         <category label="paragon" term="paragon"/>
         <category label="january" term="january"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update Home]]></title>
-        <id>https://artemisdesignstudios.github.io/docs/blog/home</id>
-        <link href="https://artemisdesignstudios.github.io/docs/blog/home"/>
-        <updated>2023-07-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Artemis project updates will be found on this site.]]></summary>
-        <content type="html"><![CDATA[<p>Artemis project updates will be found on this site.</p><p>Updates will be sorted in reverse chronological order.</p>]]></content>
-        <author>
-            <name>jrao</name>
-            <uri>https://github.com/jrao1724</uri>
-        </author>
-        <author>
-            <name>r00dy</name>
-            <uri>https://github.com/arudrra</uri>
-        </author>
-        <category label="updates" term="updates"/>
-        <category label="home" term="home"/>
     </entry>
 </feed>

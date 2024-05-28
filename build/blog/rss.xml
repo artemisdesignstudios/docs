@@ -4,11 +4,22 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Tue, 26 Mar 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[April 25, 2024 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/april-25-2024</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/april-25-2024</guid>
+            <pubDate>Thu, 25 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[April]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="april">April<a href="#april" class="hash-link" aria-label="Direct link to April" title="Direct link to April">​</a></h2><ul><li>Boards: <strong>Delivered to vendors</strong><ul><li>Vendors are QCing their units.</li></ul></li><li>PCBs and Other Components: <strong>On the way</strong><ul><li>PCBs and accessories are en route and should be delivered to vendors within 4 weeks. Delivery ETAs will depend on the shipping method (air or freight) selected by regional vendors.</li></ul></li></ul>]]></content:encoded>
+            <category>april</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[March 26, 2024 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/march-26-2024</link>
@@ -110,16 +121,6 @@
             <category>updates</category>
             <category>paragon</category>
             <category>january</category>
-        </item>
-        <item>
-            <title><![CDATA[Update Home]]></title>
-            <link>https://artemisdesignstudios.github.io/docs/blog/home</link>
-            <guid>https://artemisdesignstudios.github.io/docs/blog/home</guid>
-            <pubDate>Sat, 15 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Artemis project updates will be found on this site.]]></description>
-            <content:encoded><![CDATA[<p>Artemis project updates will be found on this site.</p><p>Updates will be sorted in reverse chronological order.</p>]]></content:encoded>
-            <category>updates</category>
-            <category>home</category>
         </item>
     </channel>
 </rss>
