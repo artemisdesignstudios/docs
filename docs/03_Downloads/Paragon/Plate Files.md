@@ -1,4 +1,4 @@
-# Paragon Plate Files
+# Plate Files
 
 ## Aluminum Plate
 ![Paragon Aluminum Plate Preview](plate_files/paragon_aluminum_plate_preview.png)

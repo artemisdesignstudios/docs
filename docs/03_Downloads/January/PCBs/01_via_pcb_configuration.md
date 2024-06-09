@@ -1,6 +1,6 @@
 # Configuring your PCB through VIA
 
-1. Download the zipped **VIA JSON configuration folder** for the January **[here](./via_files/january_via_config.zip)**. Unzip the zip file to view the january_via_config.json file.
+1. Download the zipped **VIA JSON configuration folder** for the January **[here](./via_files/january_via_config.zip)**. Unzip the zip file to view the `january_via_config.json` file.
 
 2. Go to the **[VIA](https://usevia.app/)** website.
 
