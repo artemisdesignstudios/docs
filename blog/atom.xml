@@ -2,12 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://artemisdesignstudios.github.io/docs/blog</id>
     <title>Artemis Design Studios Blog</title>
-    <updated>2024-05-28T00:00:00.000Z</updated>
+    <updated>2024-07-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://artemisdesignstudios.github.io/docs/blog"/>
     <subtitle>Artemis Design Studios Blog</subtitle>
     <icon>https://artemisdesignstudios.github.io/docs/img/artemis_logo_color.ico</icon>
     <rights>Copyright © 2024 Artemis Design Studios, LLC</rights>
+    <entry>
+        <title type="html"><![CDATA[June & July 2024 Project Updates]]></title>
+        <id>https://artemisdesignstudios.github.io/docs/blog/july-06-2024</id>
+        <link href="https://artemisdesignstudios.github.io/docs/blog/july-06-2024"/>
+        <updated>2024-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[June/July]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="junejuly">June/July<a href="#junejuly" class="hash-link" aria-label="Direct link to June/July" title="Direct link to June/July">​</a></h2><ul><li>Boards, PCBs, and Other Components: <strong>Shipping to customers.</strong><ul><li>Groupbuy units in Asia and OCE have shipped to customers. Fulfillment in NA, Canada, and EU is in progress.</li><li>Please reach out to your regional vendor if you have any issue with your unit.</li><li>Once GB unit fulfillment is complete, extras will go on sale. An announcement will be posted in our server once vendors are ready to sell extras.</li></ul></li></ul>]]></content>
+        <author>
+            <name>jrao</name>
+            <uri>https://github.com/jrao1724</uri>
+        </author>
+        <author>
+            <name>r00dy</name>
+            <uri>https://github.com/arudrra</uri>
+        </author>
+        <category label="june" term="june"/>
+        <category label="july" term="july"/>
+        <category label="updates" term="updates"/>
+        <category label="january" term="january"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[May 28, 2024 Project Updates]]></title>
         <id>https://artemisdesignstudios.github.io/docs/blog/may-28-2024</id>
@@ -177,27 +197,6 @@
         </author>
         <category label="september" term="september"/>
         <category label="updates" term="updates"/>
-        <category label="january" term="january"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[August 2, 2023 Project Updates]]></title>
-        <id>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</id>
-        <link href="https://artemisdesignstudios.github.io/docs/blog/august-2-2023"/>
-        <updated>2023-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Paragon]]></summary>
-        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Plate files are live <a href="https://artemisdesignstudios.github.io/docs/Downloads/Paragon/Plate%20Files" target="_blank" rel="noopener noreferrer">here</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Packaging<ul><li>Carrying Case and Cloth Sample have arrived</li><li>Foam insert has been re-designed and ordered for a better fit</li></ul></li></ul><p><img loading="lazy" src="/docs/assets/images/january_carrying_case-1c416e7e16d2e14e0786cfce093260a5.jpg" width="1000" height="1400" class="img_ev3q">
-<img loading="lazy" src="/docs/assets/images/january_carrying_cloth-cab130610f10e180976b546155de8a63.jpg" width="1000" height="1400" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>jrao</name>
-            <uri>https://github.com/jrao1724</uri>
-        </author>
-        <author>
-            <name>r00dy</name>
-            <uri>https://github.com/arudrra</uri>
-        </author>
-        <category label="august" term="august"/>
-        <category label="updates" term="updates"/>
-        <category label="paragon" term="paragon"/>
         <category label="january" term="january"/>
     </entry>
 </feed>

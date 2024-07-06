@@ -4,11 +4,23 @@
         <title>Artemis Design Studios Blog</title>
         <link>https://artemisdesignstudios.github.io/docs/blog</link>
         <description>Artemis Design Studios Blog</description>
-        <lastBuildDate>Tue, 28 May 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <copyright>Copyright © 2024 Artemis Design Studios, LLC</copyright>
+        <item>
+            <title><![CDATA[June & July 2024 Project Updates]]></title>
+            <link>https://artemisdesignstudios.github.io/docs/blog/july-06-2024</link>
+            <guid>https://artemisdesignstudios.github.io/docs/blog/july-06-2024</guid>
+            <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[June/July]]></description>
+            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="junejuly">June/July<a href="#junejuly" class="hash-link" aria-label="Direct link to June/July" title="Direct link to June/July">​</a></h2><ul><li>Boards, PCBs, and Other Components: <strong>Shipping to customers.</strong><ul><li>Groupbuy units in Asia and OCE have shipped to customers. Fulfillment in NA, Canada, and EU is in progress.</li><li>Please reach out to your regional vendor if you have any issue with your unit.</li><li>Once GB unit fulfillment is complete, extras will go on sale. An announcement will be posted in our server once vendors are ready to sell extras.</li></ul></li></ul>]]></content:encoded>
+            <category>june</category>
+            <category>july</category>
+            <category>updates</category>
+            <category>january</category>
+        </item>
         <item>
             <title><![CDATA[May 28, 2024 Project Updates]]></title>
             <link>https://artemisdesignstudios.github.io/docs/blog/may-28-2024</link>
@@ -106,19 +118,6 @@
             <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Manufacturing Status: <strong>In Progress</strong><ul><li>Polycarbonate cases and weights are expected to be completed within the next month.</li></ul></li><li>PCB Status: <strong>In Progress</strong><ul><li>PCBs have been re-designed to comply with requirements. The new prototypes are expected to ship this week.</li></ul></li><li>Other Components: <strong>In Progress</strong><ul><li>Carbon Fiber, Fr4, and Polycarbonate Plates have been delivered to KFA.</li><li>Feet and O-rings have been delivered to KFA.</li><li>Carrying cases and cloths are expected to be completed within the next month.</li></ul></li></ul>]]></content:encoded>
             <category>september</category>
             <category>updates</category>
-            <category>january</category>
-        </item>
-        <item>
-            <title><![CDATA[August 2, 2023 Project Updates]]></title>
-            <link>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</link>
-            <guid>https://artemisdesignstudios.github.io/docs/blog/august-2-2023</guid>
-            <pubDate>Wed, 02 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Paragon]]></description>
-            <content:encoded><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="paragon">Paragon<a href="#paragon" class="hash-link" aria-label="Direct link to Paragon" title="Direct link to Paragon">​</a></h2><ul><li>Plate files are live <a href="https://artemisdesignstudios.github.io/docs/Downloads/Paragon/Plate%20Files" target="_blank" rel="noopener noreferrer">here</a></li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="january">January<a href="#january" class="hash-link" aria-label="Direct link to January" title="Direct link to January">​</a></h2><ul><li>Packaging<ul><li>Carrying Case and Cloth Sample have arrived</li><li>Foam insert has been re-designed and ordered for a better fit</li></ul></li></ul><p><img loading="lazy" src="/docs/assets/images/january_carrying_case-1c416e7e16d2e14e0786cfce093260a5.jpg" width="1000" height="1400" class="img_ev3q">
-<img loading="lazy" src="/docs/assets/images/january_carrying_cloth-cab130610f10e180976b546155de8a63.jpg" width="1000" height="1400" class="img_ev3q"></p>]]></content:encoded>
-            <category>august</category>
-            <category>updates</category>
-            <category>paragon</category>
             <category>january</category>
         </item>
     </channel>
